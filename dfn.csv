@@ -1,0 +1,9 @@
+loc_id,title,desc,n,e,s,w,ne,se,sw,nw,u,d,enter,exit,moves
+0,At End Of Road,  You are standing at the end of a road before a small brick building. Around,14,13,35,13,2,2,2,2,1,14,2,1,[]
+1,In Forest,"  You are in open forest, with a deep valley to one side.",11,3,4,3,1,1,1,1,1,5,1,1,['n']
+4,Inside Building,"  You are inside a building, a well house for a large spring.",2,1,2,10,2,2,2,2,2,2,1,2,['e']
+6,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down",1,8,1,1,2,2,2,2,1,2,2,2,['w']
+8,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,28,3,24,3,2,2,2,2,24,4,2,2,['s']
+19,In Forest,  You are in open forest near both a valley and a road.,3,4,7,2,3,3,3,3,1,7,3,3,"['d', 'u']"
+31,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,18,1,12,1,2,2,2,2,5,1,2,2,"['s', 's']"
+303,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,9,1,1,1,2,2,2,2,2,2,2,2,"['s', 's', 's']"

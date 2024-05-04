@@ -1,0 +1,1329 @@
+move,title,desc,other_desc,move_title,move_desc,loc_id1,loc_id,from_start,to_start,to_reset,prev_loc_id
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,3,3,
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,1,2,2,0.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,2,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,2,17,1.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  You are inside a building, a well house for a large spring.
+  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,1,16,0.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,2,15,4.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,1,14,0.0
+e,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,2,13,6.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,1,12,0.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,1,11,8.0
+ne,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  You can't go that way.,  ,0,0,0,1,10,0.0
+sw,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  You can't go that way.,  ,0,0,0,1,9,0.0
+se,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  You can't go that way.,  ,0,0,0,1,8,0.0
+nw,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  You can't go that way.,  ,0,0,0,1,7,0.0
+sw,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  You can't go that way.,  ,0,0,0,1,6,0.0
+ne,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  You can't go that way.,  ,0,0,0,1,5,0.0
+nw,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  You can't go that way.,  ,0,0,0,1,4,0.0
+se,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  You can't go that way.,  ,0,0,0,3,3,0.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,2,2,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,2,7,19.0
+u,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,1,6,0.0
+d,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,2,5,6.0
+enter,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  You are inside a building, a well house for a large spring.
+  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,1,4,0.0
+exit,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,1,3,4.0
+exit,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  But you aren't in anything at the moment.,  ,0,0,0,2,2,0.0
+enter,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,1,1,0.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,2,5,4.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,1,4,0.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,3,3,19.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,2,2,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,31.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+e,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,2,3,3,19.0
+w,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,3,2,2,8.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,4,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,1.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+w,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,2,3,3,19.0
+e,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,3,2,2,8.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,4,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,1.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+ne,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,2,3,3,19.0
+sw,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,3,2,2,19.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,4,1,1,19.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,1.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+se,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,2,3,3,19.0
+nw,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,3,2,2,19.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,4,1,1,19.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,1.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+sw,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,2,3,3,19.0
+ne,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,3,2,2,19.0
+s,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,4,1,1,19.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,19.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+nw,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,2,3,3,19.0
+se,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,3,2,2,19.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,4,1,1,19.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,1.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,2,3,3,19.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,3,2,2,19.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,4,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,31.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,2,3,3,19.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,3,2,2,8.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,4,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,1.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+enter,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,2,3,3,19.0
+exit,In Forest,  You are in open forest near both a valley and a road.,,  But you aren't in anything at the moment.,  ,19,19,3,2,2,19.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,4,1,1,19.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,1.0
+n,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,1,4,4,0.0
+exit,In Forest,  You are in open forest near both a valley and a road.,,  But you aren't in anything at the moment.,  ,19,19,2,3,3,19.0
+enter,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,3,2,2,19.0
+s,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,4,1,1,19.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,4,9,19.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  You are inside a building, a well house for a large spring.
+  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,3,8,0.0
+n,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,2,7,4.0
+s,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,3,1,6,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,3,5,4.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,2,4,0.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,1,3,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,2,2,4.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,1,1,0.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,4,33,6.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  You are inside a building, a well house for a large spring.
+  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,3,32,0.0
+s,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,2,31,4.0
+n,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,3,1,30,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,29,4.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,3,28,0.0
+ne,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,2,27,4.0
+sw,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,3,1,26,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,25,4.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,3,24,0.0
+se,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,2,23,4.0
+nw,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,3,1,22,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,21,4.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,3,20,0.0
+sw,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,2,19,4.0
+ne,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,3,1,18,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,17,4.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,3,16,0.0
+nw,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,2,15,4.0
+se,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,3,1,14,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,13,4.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,3,12,0.0
+u,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,2,11,4.0
+d,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,3,1,10,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,9,4.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,3,8,0.0
+d,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,2,2,7,4.0
+u,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The stream flows out through a pair of 1 foot diameter sewer pipes. The,"  only exit is to the west.
+  ",4,4,3,1,6,4.0
+w,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,3,5,4.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,2,4,0.0
+enter,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  The pipes are too small.,  ,4,4,2,1,3,4.0
+exit,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,2,2,4.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,1,1,0.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,2,5,6.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,1,4,0.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,3,3,6.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,2,2,0.0
+e,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,5,5,19.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,4,4,0.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,2,3,3,6.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,3,2,2,1.0
+e,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,4,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,3,5,8.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,2,4,0.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,2,1,3,6.0
+e,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,2,2,6.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  You are inside a building, a well house for a large spring.
+  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,1,1,0.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,4,21,4.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,3,20,0.0
+ne,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,2,2,19,6.0
+sw,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,3,1,18,6.0
+e,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,17,6.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,  ,6,6,1,3,16,0.0
+se,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,2,2,15,6.0
+nw,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,3,1,14,6.0
+e,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,13,6.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,  ,6,6,1,3,12,0.0
+sw,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,2,2,11,6.0
+ne,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,3,1,10,6.0
+e,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,9,6.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,  ,6,6,1,3,8,0.0
+nw,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,2,2,7,6.0
+se,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,3,1,6,6.0
+e,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,3,5,6.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,  ,6,6,1,2,4,0.0
+u,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,2,1,3,6.0
+d,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,2,2,6.0
+e,Inside Building,"  You are inside a building, a well house for a large spring.","
+There are some keys on the ground here.
+
+There is tasty food here.
+
+There is a shiny brass lamp nearby.
+
+There is an empty bottle here.
+",  Inside Building,"  You are inside a building, a well house for a large spring.
+  
+  There are some keys on the ground here.
+  
+  There is tasty food here.
+  
+  There is a shiny brass lamp nearby.
+  
+  There is an empty bottle here.
+  ",4,4,1,1,1,0.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,4,41,4.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down
+  the other side of the hill. There is a building in the distance.
+  ",6,6,1,3,40,0.0
+enter,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,2,2,39,6.0
+exit,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  But you aren't in anything at the moment.,  ,6,6,3,1,38,6.0
+e,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,37,6.0
+w,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  At Hill In Road,  ,6,6,1,3,36,0.0
+exit,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  But you aren't in anything at the moment.,  ,6,6,2,2,35,6.0
+enter,At Hill In Road,"  You have walked up a hill, still in the forest. The road slopes back down","the other side of the hill. There is a building in the distance.
+",  You can't go that way.,  ,6,6,3,1,34,6.0
+e,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,33,6.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,3,32,0.0
+e,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,2,31,8.0
+w,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,3,1,30,19.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,29,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,3,28,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,2,27,8.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,3,1,26,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,25,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,3,24,0.0
+w,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,2,23,8.0
+e,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,3,1,22,19.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,21,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,3,20,0.0
+ne,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,2,2,19,8.0
+sw,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,3,1,18,8.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,17,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,3,16,0.0
+se,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,2,2,15,8.0
+nw,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,3,1,14,8.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,13,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,3,12,0.0
+sw,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,2,2,11,8.0
+ne,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,3,1,10,8.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,9,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,3,8,0.0
+nw,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,2,2,7,8.0
+se,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,3,1,6,8.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,5,5,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,4,4,0.0
+d,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,3,3,8.0
+u,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,3,2,2,31.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,4,1,1,31.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,4,15,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,3,14,0.0
+enter,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,2,2,13,8.0
+exit,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  But you aren't in anything at the moment.,  ,8,8,3,1,12,8.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,11,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,3,10,0.0
+exit,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  But you aren't in anything at the moment.,  ,8,8,2,2,9,8.0
+enter,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  You can't go that way.,  ,8,8,3,1,8,8.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,3,7,8.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,2,6,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,1,5,8.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,4,4,19.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,3,3,0.0
+d,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,2,2,8.0
+u,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,3,1,1,31.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,31.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,5,5,8.0
+e,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,3,4,4,19.0
+w,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,4,3,3,8.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,2,2,19.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,6,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,4,7,19.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,3,6,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,2,5,8.0
+s,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,3,1,4,19.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,3,3,19.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,2,2,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,19.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,2,5,5,8.0
+w,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,3,4,4,1.0
+e,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,4,3,3,1.0
+d,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,5,2,2,8.0
+u,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,6,1,1,31.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,31.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,5,5,8.0
+ne,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,3,4,4,19.0
+sw,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,4,3,3,19.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,2,2,19.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,6,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,2,5,5,8.0
+se,In Forest,"  You are in open forest, with a deep valley to one side.",,  You can't go that way.,  ,1,1,3,4,4,1.0
+nw,In Forest,"  You are in open forest, with a deep valley to one side.",,  You can't go that way.,  ,1,1,4,3,3,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,2,2,1.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,6,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,2,5,5,8.0
+sw,In Forest,"  You are in open forest, with a deep valley to one side.",,  You can't go that way.,  ,1,1,3,4,4,1.0
+ne,In Forest,"  You are in open forest, with a deep valley to one side.",,  You can't go that way.,  ,1,1,4,3,3,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,2,2,1.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,6,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,5,5,8.0
+nw,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,3,4,4,19.0
+se,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,4,3,3,19.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,2,2,19.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,6,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,2,5,5,8.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  You can't go that way.,  ,1,1,3,4,4,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,4,3,3,1.0
+d,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,5,2,2,8.0
+u,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,6,1,1,31.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,31.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,5,5,8.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,3,4,4,19.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,4,3,3,8.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,2,2,1.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,6,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,19.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,2,5,5,8.0
+enter,In Forest,"  You are in open forest, with a deep valley to one side.",,  You can't go that way.,  ,1,1,3,4,4,1.0
+exit,In Forest,"  You are in open forest, with a deep valley to one side.",,  But you aren't in anything at the moment.,  ,1,1,4,3,3,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,2,2,1.0
+u,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,6,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,1.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,2,5,5,8.0
+exit,In Forest,  You are in open forest near both a valley and a road.,,  But you aren't in anything at the moment.,  ,19,19,3,4,4,19.0
+enter,In Forest,  You are in open forest near both a valley and a road.,,  You can't go that way.,  ,19,19,4,3,3,19.0
+d,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,2,2,19.0
+u,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,6,1,1,8.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,7,7,19.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,6,6,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,5,5,8.0
+e,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,3,4,4,31.0
+w,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,4,3,3,1.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,5,2,2,1.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,6,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,6,13,1.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,5,12,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,4,11,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,"  You are in a 20-foot depression floored with bare dirt. Set into the dirt
+  is a strong steel grate mounted in concrete. A dry streambed leads into the
+  depression.
+  ",303,303,3,3,10,31.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,4,2,9,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,8,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,5,7,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,4,6,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,3,5,8.0
+w,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,3,2,4,31.0
+e,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,4,1,3,1.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,2,2,8.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,1,1,1,0.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,6,51,1.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,5,50,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,4,49,8.0
+ne,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,3,3,48,31.0
+sw,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,4,2,47,31.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,46,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,6,45,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,5,44,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,4,43,8.0
+se,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,3,3,42,31.0
+nw,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,4,2,41,31.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,40,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,6,39,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,5,38,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,4,37,8.0
+sw,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,3,3,36,31.0
+ne,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,4,2,35,31.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,34,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,6,33,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,5,32,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,4,31,8.0
+nw,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,3,3,30,31.0
+se,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,4,2,29,31.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,28,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,6,27,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,5,26,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,4,25,8.0
+d,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You don't fit through a two-inch slit!,  ,31,31,3,3,24,31.0
+u,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You can't go that way.,  ,31,31,4,2,23,31.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,22,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,6,21,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,5,20,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,4,19,8.0
+enter,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You don't fit through a two-inch slit!,  ,31,31,3,3,18,31.0
+exit,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  But you aren't in anything at the moment.,  ,31,31,4,2,17,31.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,16,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,6,15,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,5,14,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,4,13,8.0
+exit,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  But you aren't in anything at the moment.,  ,31,31,3,3,12,31.0
+enter,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  You don't fit through a two-inch slit!,  ,31,31,4,2,11,31.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,10,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,9,9,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,8,8,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,7,7,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,"  You are in a 20-foot depression floored with bare dirt. Set into the dirt
+  is a strong steel grate mounted in concrete. A dry streambed leads into the
+  depression.
+  ",303,303,3,6,6,31.0
+e,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,4,5,5,303.0
+w,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,5,4,4,1.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,6,3,3,1.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,7,2,2,1.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,8,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,9,9,1.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,8,8,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,7,7,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,"  You are in a 20-foot depression floored with bare dirt. Set into the dirt
+  is a strong steel grate mounted in concrete. A dry streambed leads into the
+  depression.
+  ",303,303,3,6,6,31.0
+s,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,4,5,5,303.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,5,4,4,1.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,6,3,3,1.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,7,2,2,1.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,8,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,6,9,1.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,5,8,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,4,7,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,"  You are in a 20-foot depression floored with bare dirt. Set into the dirt
+  is a strong steel grate mounted in concrete. A dry streambed leads into the
+  depression.
+  ",303,303,3,3,6,31.0
+w,In Forest,  You are in open forest near both a valley and a road.,,  In Forest,  ,19,19,4,2,5,303.0
+e,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,5,1,4,19.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,3,3,8.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,"  You are in open forest, with a deep valley to one side.
+  ",1,1,1,2,2,0.0
+n,In Forest,"  You are in open forest, with a deep valley to one side.",,  In Forest,  ,1,1,2,1,1,1.0
+start,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",,,0,0,0,8,65,1.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,"  You are in a valley in the forest beside a stream tumbling along a rocky
+  bed.
+  ",8,8,1,7,64,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,"  At your feet all the water of the stream splashes into a 2-inch slit in the
+  rock. Downstream the streambed is bare rock.
+  ",31,31,2,6,63,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,"  You are in a 20-foot depression floored with bare dirt. Set into the dirt
+  is a strong steel grate mounted in concrete. A dry streambed leads into the
+  depression.
+  ",303,303,3,5,62,31.0
+ne,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,4,4,61,303.0
+sw,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,5,3,60,303.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,6,2,59,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,7,1,58,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,8,57,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,7,56,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,6,55,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,  ,303,303,3,5,54,31.0
+se,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,4,4,53,303.0
+nw,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,5,3,52,303.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,6,2,51,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,7,1,50,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,8,49,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,7,48,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,6,47,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,  ,303,303,3,5,46,31.0
+sw,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,4,4,45,303.0
+ne,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,5,3,44,303.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,6,2,43,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,7,1,42,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,8,41,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,7,40,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,6,39,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,  ,303,303,3,5,38,31.0
+nw,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,4,4,37,303.0
+se,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,5,3,36,303.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,6,2,35,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,7,1,34,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,8,33,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,7,32,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,6,31,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,  ,303,303,3,5,30,31.0
+u,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,4,4,29,303.0
+d,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You are unable to descend by the steel grate.,  ,303,303,5,3,28,303.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,6,2,27,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,7,1,26,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,8,25,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,7,24,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,6,23,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,  ,303,303,3,5,22,31.0
+d,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You are unable to descend by the steel grate.,  ,303,303,4,4,21,303.0
+u,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,5,3,20,303.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,6,2,19,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,7,1,18,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,8,17,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,7,16,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,6,15,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,  ,303,303,3,5,14,31.0
+enter,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,4,4,13,303.0
+exit,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  But you aren't in anything at the moment.,  ,303,303,5,3,12,303.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,6,2,11,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,7,1,10,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,8,9,8.0
+s,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,1,7,8,0.0
+s,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,2,6,7,8.0
+s,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  Outside Grate,  ,303,303,3,5,6,31.0
+exit,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  But you aren't in anything at the moment.,  ,303,303,4,4,5,303.0
+enter,Outside Grate,  You are in a 20-foot depression floored with bare dirt. Set into the dirt,"is a strong steel grate mounted in concrete. A dry streambed leads into the
+depression.
+",  You can't go that way.,  ,303,303,5,3,4,303.0
+n,At Slit In Streambed,  At your feet all the water of the stream splashes into a 2-inch slit in the,"rock. Downstream the streambed is bare rock.
+",  At Slit In Streambed,  ,31,31,6,2,3,303.0
+n,In A Valley,  You are in a valley in the forest beside a stream tumbling along a rocky,"bed.
+",  In A Valley,  ,8,8,7,1,2,31.0
+n,At End Of Road,  You are standing at the end of a road before a small brick building. Around,"you is a forest. A small stream flows out of the building and down a gully.
+",  At End Of Road,  ,0,0,0,1,1,8.0
